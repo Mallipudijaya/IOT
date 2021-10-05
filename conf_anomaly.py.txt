@@ -1,0 +1,8 @@
+SSID = 'get from tilio account'
+AUTH_TOKEN = 'get from your twilio account'
+FROM_NUMBER = 'twilio account number'
+TO_NUMBER = 'your number'
+API_KEY = 'bolt api key'
+DEVICE_ID = 'bolt device id'
+FRAME_SIZE = 10
+MUL_FACTOR = 6

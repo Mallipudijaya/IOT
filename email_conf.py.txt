@@ -1,0 +1,6 @@
+MAILGUN_API_KEY = 'your api key' 
+SANDBOX_URL= 'your url' 
+SENDER_EMAIL = 'sandbox email'
+RECIPIENT_EMAIL = 'your email'
+API_KEY = 'bolt api key'
+DEVICE_ID = 'your device id' 
